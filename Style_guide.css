@@ -12,15 +12,15 @@ body {
 }
 #container {
     background-color: aliceblue;
-    width: 1440px;
+    width: 2000px;
     margin-left: auto;
     margin-right: auto;
 }
 #Broken-designers-logo {
     flex: 1;
     cursor: pointer;
-    width: 400px;
-    height: 400px;
+    width: 200px;
+    height: 200px;
     margin-left: auto;
     margin-right: auto;
 }
