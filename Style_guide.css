@@ -16,7 +16,9 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
-#banjo_jig {
-    margin-left: auto;
-    margin-right: auto;
+#Broken-designers-logo {
+    flex: 1;
+    cursor: pointer;
+    width: 400px;
+    height: 400px;
 }
