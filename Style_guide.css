@@ -1,0 +1,13 @@
+body {
+    background-color: blueviolet;
+}
+#header {
+    background-color: blanchedalmond;
+    text-align: center;
+}
+#container {
+    background-color: aliceblue;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
