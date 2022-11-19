@@ -20,7 +20,6 @@ body {
 }
 .Broken-designers-logo {
     flex: 1;
-    cursor: pointer;
     width: 565px;
     height: 500px;
     margin-left: auto;
