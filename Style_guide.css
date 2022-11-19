@@ -48,7 +48,7 @@ body {
     width:100%;
     float: right;
     position: relative;
-    top: 100px;
+    top: 70px;
     border-color: solid black;
     border-radius: 20px;
 }
@@ -60,6 +60,6 @@ body {
     text-align: left;
     position: relative;
     left: 1px;
-    top: 100px;
+    top: 70px;
     font-size: large;
 }
