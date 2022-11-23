@@ -38,6 +38,8 @@ body {
 .title_of_section{
     overflow: hidden;
     flex-basis: 100%;
+    text-align: center;
+    font-size: 25px;
 }
 .image_for_section{
     flex-basis:100%;
@@ -61,6 +63,7 @@ body {
     left: 1px;
     top: 70px;
     font-size: large;
+    font-size: 20px;
 }
 .list_of_deliverables{
     display: flex;
