@@ -4,17 +4,17 @@
     font-family: "Poppins",sans-serif;
 }
 body {
-    background-color: rgba(226, 153, 43, 0.616);
+    background-color: #173F5F;
     margin: 0;
     height: 100%;
 }
 .header {
-    background-color: blanchedalmond;
+    background-color: #20639B;
     text-align: center;
     font-size: 30px;
 }
 .container {
-    background-color: aliceblue;
+    background-color: #f6d55c;
     width: 100%;
     margin-left: auto;
     margin-right: auto;
@@ -31,7 +31,7 @@ body {
     width: 100%;
     height: 70%;
     position: sticky;
-    background-color:aliceblue;
+    background-color:#f6d55c;
     overflow: hidden;
     margin-left: auto;
     margin-right: auto;
@@ -55,7 +55,7 @@ body {
     border-radius: 20px;
 }
 .para1{
-    width: 100%;
+    width: 80%;
     flex-basis: 40%;
     overflow: hidden;
     padding: 10px;
@@ -69,19 +69,19 @@ body {
 .list_of_deliverables{
     display: flex;
     width: 100%;
-    background-color:blanchedalmond;
+    background-color:#ed553B;
 }
 .deliverables{
     display:block;
     width:100%;
-    background-color: blanchedalmond;
+    background-color: #20639B;
 }
 .week_2_stuff{
     display: flex;
     width: 100%;
     height: 30%;
     position: sticky;
-    background-color: rgba(226, 153, 43, 0.616);
+    background-color: #3caea3;
     overflow: hidden;
     margin-left: auto;
     margin-right: auto;
@@ -105,14 +105,14 @@ body {
     height: 70%;
 }
 .Week_paragraph{
-    width: 100%;
+    width: 80%;
+    height: 100%;
     flex-basis: 40%;
     overflow: hidden;
     padding: 10px;
     text-align: left;
     position: relative;
     left: 1px;
-    top: 80px;
     font-size: large;
     font-size: 18px;
 }
@@ -121,7 +121,7 @@ body {
     width: 100%;
     height: 50%;
     position: sticky;
-    background-color: rgba(226, 153, 43, 0.616);
+    background-color: #3caea3;
     overflow: hidden;
     margin-left: auto;
     margin-right: auto;
@@ -136,7 +136,7 @@ body {
     width:100%;
     float: right;
     position: relative;
-    top: 70px;
+    top: 10px;
     border-color: solid black;
     border-radius: 20px;
 }
@@ -145,7 +145,7 @@ body {
     width: 100%;
     height: 50%;
     position: sticky;
-    background-color: rgba(226, 153, 43, 0.616);
+    background-color: #3caea3;
     overflow: hidden;
     margin-left: auto;
     margin-right: auto;
