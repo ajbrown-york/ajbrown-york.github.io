@@ -1,24 +1,33 @@
+/*This is to do with all elements style guide */
 * {
     margin: 0;
     padding: 0;
     font-family: "Poppins",sans-serif;
 }
+
+/*This is to do with the body of the website, where otherwise undefinded*/
 body {
     background-color: #173F5F;
     margin: 0;
     height: 100%;
 }
+
+/*This is the style guide for the header at the top of the website*/
 .header {
     background-color: #20639B;
     text-align: center;
     font-size: 30px;
 }
+
+/*This is the style guide for the box that contains the header at the top of the website*/
 .container {
     background-color: #f6d55c;
     width: 100%;
     margin-left: auto;
     margin-right: auto;
 }
+
+/* This handles the style for the logo at the bottom of the website */
 .Broken-designers-logo {
     flex: 1;
     width: 565px;
@@ -26,6 +35,8 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+
+/* This is the style for the overall section to do with the game description and the image that goes with it */
 .pictures{
     display: flex;
     width: 100%;
@@ -36,16 +47,22 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+
+/* This handles the style for the title of the section labelled "pictures" */
 .title_of_section{
     overflow: hidden;
     flex-basis: 100%;
     text-align: center;
     font-size: 25px;
 }
+
+/* This handles the style of the box for the picture in the section labelled "pictures" */
 .image_for_section{
     flex-basis:100%;
     overflow: hidden;
 }
+
+/*This is the style for the image in the section labelled "pictures" */
 .image_for_section img{
     width:100%;
     float: right;
@@ -54,6 +71,8 @@ body {
     border-color: solid black;
     border-radius: 20px;
 }
+
+/* This is the part of the style guide that styles the paragraph in the section labelled "pictures" */
 .para1{
     width: 80%;
     flex-basis: 40%;
@@ -66,16 +85,22 @@ body {
     font-size: large;
     font-size: 20px;
 }
+
+/* This is the part of the style guide which styles the list of deliverables */
 .list_of_deliverables{
     display: flex;
     width: 100%;
     background-color:#ed553B;
 }
+
+/* This is the part of the style guide that changes the style of the title of the section "deliverables" */
 .deliverables{
     display:block;
     width:100%;
     background-color: #20639B;
 }
+
+/* This styles the overall section "week 2" */
 .week_2_stuff{
     display: flex;
     width: 100%;
@@ -86,12 +111,17 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+
+/* This styles the header (title) od the section "week 2" */
 .week_2_stuff_header{
     overflow: hidden;
     flex-basis: 100%;
     text-align: center;
     font-size: 18px;
 }
+
+/* This is used by multiple parts of the website to style the pictures that go with the week recap */
+/* not all weeks use this due to different size pictures */
 .Week_image{
     width:100%;
     float: right;
@@ -100,10 +130,15 @@ body {
     border-color: solid black;
     border-radius: 20px;
 }
+
+/* This styles the actual image size in the week work */
 .Week_image img{
     width: 100%;
     height: 70%;
 }
+
+/* This is used by multiple parts of the website to style the paragraph that go with the week recap */
+/* not all weeks use this due to different size pictures */
 .Week_paragraph{
     width: 80%;
     height: 100%;
@@ -116,6 +151,8 @@ body {
     font-size: large;
     font-size: 18px;
 }
+
+/* This handles the style for the overall section "week 1" */
 .week_1_stuff{
     display: flex;
     width: 100%;
@@ -126,12 +163,16 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+
+/* This handles the style for the header of section "week 1" */
 .week_1_stuff_header{
     overflow: hidden;
     flex-basis: 100%;
     text-align: center;
     font-size: 18px;
 }
+
+/* This handles the style for the image and its box for "week 1" */
 .Week_1_image{
     width:100%;
     float: right;
@@ -140,6 +181,8 @@ body {
     border-color: solid black;
     border-radius: 20px;
 }
+
+/* This handles the overall section "week 3" */
 .week_3_stuff{
     display: flex;
     width: 100%;
@@ -150,12 +193,16 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+
+/* This handles the title for the section "week 3" */
 .week_3_stuff_header{
     overflow: hidden;
     flex-basis: 100%;
     text-align: center;
     font-size: 18px;
 }
+
+/* This handles the image for "week 3" */
 .Week_3_image{
     width:100%;
     float: right;
