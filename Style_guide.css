@@ -190,3 +190,14 @@ body {
     text-align: center;
     font-size: 18px;
 }
+.UML_container{
+    display:block;
+    width:100%;
+    background-color: #20639B;
+}
+.UML{
+    width:100%;
+    position: relative;
+    border-color: solid black;
+    border-radius: 20px;
+}
