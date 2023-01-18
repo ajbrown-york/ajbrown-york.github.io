@@ -1,24 +1,33 @@
+/*The following is a general style for text in the website */
 * {
     margin: 0;
     padding: 0;
     font-family: "Poppins",sans-serif;
 }
+
+/*The following is a general guideline if style code is not given to the website */
 body {
     background-color: #173F5F;
     margin: 0;
     height: 100%;
 }
+
+/*This is the style for the title of the page "Piazza Panic" */
 .header {
     background-color: #20639B;
     text-align: center;
     font-size: 30px;
 }
+
+/*This is the style for the containe of the title "Piazza Panic" */
 .container {
     background-color: #f6d55c;
     width: 100%;
     margin-left: auto;
     margin-right: auto;
 }
+
+/*This is the style guide for the broken-designers logo (our team name+logo), change if you want when swapping code to another team */
 .Broken-designers-logo {
     flex: 1;
     width: 565px;
@@ -26,6 +35,8 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+
+/*This is for the part underneath the title, with the image of the game and description of it. Specifically, this describes the general section */
 .pictures{
     display: flex;
     width: 100%;
@@ -36,16 +47,22 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+
+/*This is the style for the title of the pictures section, the section with the description and and picture of the game */
 .title_of_section{
     overflow: hidden;
     flex-basis: 100%;
     text-align: center;
     font-size: 25px;
 }
+
+/*This styles the image position for the section pictures */
 .image_for_section{
     flex-basis:100%;
     overflow: hidden;
 }
+
+/*This styles the image in the section pictures */;
 .image_for_section img{
     width:100%;
     float: right;
@@ -54,6 +71,8 @@ body {
     border-color: solid black;
     border-radius: 20px;
 }
+
+/*This styles the description of the game in the section pictures */ 
 .para1{
     width: 80%;
     flex-basis: 40%;
@@ -66,16 +85,22 @@ body {
     font-size: large;
     font-size: 20px;
 }
+
+/*This styles the list of deliverables */
 .list_of_deliverables{
     display: flex;
     width: 100%;
     background-color:#ed553B;
 }
+
+/*This styles the section deliverables */
 .deliverables{
     display:block;
     width:100%;
     background-color: #20639B;
 }
+
+/*This styles the section week_2_stuff, specifically its position and background colour */
 .week_2_stuff{
     display: flex;
     width: 100%;
@@ -86,12 +111,16 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+
+/*This styles the title for week 2 progress section */
 .week_2_stuff_header{
     overflow: hidden;
     flex-basis: 100%;
     text-align: center;
     font-size: 18px;
 }
+
+/*This is a general class, used to style the image box position and size of progress section images, some images do not use this as they needed to be scaled differently to appear visable on the webpage */
 .Week_image{
     width:100%;
     float: right;
@@ -100,10 +129,14 @@ body {
     border-color: solid black;
     border-radius: 20px;
 }
+
+/*This styles the actual image in the week progress, some images do not use this as they needed to be scaled differently to appear visable on the webpage */
 .Week_image img{
     width: 100%;
     height: 70%;
 }
+
+/*This is a general class used to style the position and text allignment of paragraphs describing week progress, some paragraphs do not use this as they needed to be scaled differently to appear visable on the webpage */
 .Week_paragraph{
     width: 80%;
     height: 100%;
@@ -116,6 +149,8 @@ body {
     font-size: large;
     font-size: 18px;
 }
+
+/* This is the style for the postition and background colour of week 1's progress report */
 .week_1_stuff{
     display: flex;
     width: 100%;
@@ -126,12 +161,16 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+
+/*This is the style for the title and title box of the week 1 progress report section */
 .week_1_stuff_header{
     overflow: hidden;
     flex-basis: 100%;
     text-align: center;
     font-size: 18px;
 }
+
+/*This is used to position the image of the week 1 progress report image */
 .Week_1_image{
     width:100%;
     float: right;
@@ -140,6 +179,8 @@ body {
     border-color: solid black;
     border-radius: 20px;
 }
+
+/* This is the style guide for the section position and colour of week 3's progress report */
 .week_3_stuff{
     display: flex;
     width: 100%;
@@ -150,6 +191,8 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+
+/*This is the section for styling the title of the week 3 progress report section */
 .week_3_stuff_header{
     overflow: hidden;
     flex-basis: 100%;
