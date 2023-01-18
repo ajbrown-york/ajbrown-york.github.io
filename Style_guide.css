@@ -164,3 +164,29 @@ body {
     border-color: solid black;
     border-radius: 20px;
 }
+.week_4_stuff{
+    display: flex;
+    width: 100%;
+    height: 30%;
+    position: sticky;
+    background-color: #3caea3;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+}
+.term2_week1{
+    display: flex;
+    width: 100%;
+    height: 10%;
+    position: sticky;
+    background-color: #3caea3;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+}
+.term2_week1_stuff_header{
+    overflow: hidden;
+    flex-basis: 100%;
+    text-align: center;
+    font-size: 18px;
+}
