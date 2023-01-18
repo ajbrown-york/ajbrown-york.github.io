@@ -199,6 +199,8 @@ body {
     text-align: center;
     font-size: 18px;
 }
+
+/*This is the section for styling the image for the week 3 progress report section */
 .Week_3_image{
     width:100%;
     float: right;
@@ -207,6 +209,8 @@ body {
     border-color: solid black;
     border-radius: 20px;
 }
+
+/*This is the section for styling the christmas break section of the progress report */
 .week_4_stuff{
     display: fill;
     width: 100%;
@@ -217,6 +221,8 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+
+/*This is the section for styling the progress report section term 2 week 1, position and colour */
 .term2_week1{
     display: fill;
     width: 100%;
@@ -227,17 +233,23 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+
+/*This is the section for the header of the progress report section for term 2 week 1 */
 .term2_week1_stuff_header{
     overflow: hidden;
     flex-basis: 100%;
     text-align: center;
     font-size: 18px;
 }
+
+/*This is the container for section container our UMLS, it changes the position and colour */
 .UML_container{
     display:block;
     width:100%;
     background-color: #20639B;
 }
+
+/*This changes the UML images in the UML section */
 .UML{
     width:100%;
     position: relative;
@@ -245,6 +257,8 @@ body {
     border-radius: 20px;
     text-align: center;
 }
+
+/*This is the style used for the titles given to each UML */
 .UML_title{
     background-color: #3caea3;
     overflow: hidden;
