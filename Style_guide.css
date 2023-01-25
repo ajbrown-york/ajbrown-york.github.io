@@ -34,6 +34,7 @@ body {
     height: 500px;
     margin-left: auto;
     margin-right: auto;
+    display: inline-block;
 }
 
 /*This is for the part underneath the title, with the image of the game and description of it. Specifically, this describes the general section */
