@@ -298,3 +298,18 @@ body {
     text-align: center;
     font-size: 18px;
 }
+
+/*These are the style guides for the table of contents in the website, we made this late into development, hence why its so far down in the style guide (sorry ;-;) */
+.table_of_contents{
+    display:block;
+    width:100%;
+    background-color: #20639B;
+    text-align:  center;
+}
+
+
+.list_of_table_of_contents{
+    display: flex;
+    width: 100%;
+    background-color:#ed553B;
+}
