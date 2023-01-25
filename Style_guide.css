@@ -72,7 +72,6 @@ body {
     top: 70px;
     border-color: solid black;
     border-radius: 20px;
-    object-fit: scale-down;
 }
 
 /*This styles the description of the game in the section pictures */ 
@@ -187,7 +186,6 @@ body {
 }
 
 .Week_1_image img{
-    object-fit: scale-down;
     width: auto;
     height: auto;
 }
