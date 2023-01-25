@@ -175,7 +175,8 @@ body {
 
 /*This is used to position the image of the week 1 progress report image */
 .Week_1_image{
-    width:100%;
+    max-width: auto;
+    max-height: auto;
     float: right;
     position: relative;
     top: 10px;
