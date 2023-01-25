@@ -313,4 +313,5 @@ body {
     width: 100%;
     background-color:#ed553B;
     text-align: center;
+    display: inline-block;
 }
