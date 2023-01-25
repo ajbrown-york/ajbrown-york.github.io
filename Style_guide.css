@@ -319,7 +319,7 @@ body {
 }
 
 /*These are the styles guides for the section to do with giving a better view of the Gantt charts */
-.Gantt_Chart{
+.Gantt_charts{
     display:block;
     width:100%;
     background-color: #20639B;
