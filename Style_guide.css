@@ -341,3 +341,8 @@ body {
     border-radius: 20px;
     text-align: center;
 }
+
+.Gantt_chart_img img{
+    width: 100%;
+    height: 100%;
+}
