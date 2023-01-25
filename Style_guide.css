@@ -66,6 +66,7 @@ body {
 /*This styles the image in the section pictures */;
 .image_for_section img{
     width:100%;
+    max-height: auto;
     float: right;
     position: relative;
     top: 70px;
