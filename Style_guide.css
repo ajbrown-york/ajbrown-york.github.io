@@ -317,3 +317,27 @@ body {
     text-align: center;
     display: inline-block;
 }
+
+/*These are the styles guides for the section to do with giving a better view of the Gantt charts */
+.Gantt_Chart{
+    display:block;
+    width:100%;
+    background-color: #20639B;
+    text-align: center;
+}
+
+.gantt_chart_title{
+    background-color: #3caea3;
+    overflow: hidden;
+    flex-basis: 100%;
+    text-align: center;
+    font-size: 18px;
+}
+
+.Gantt_chart_img{
+    width:100%;
+    position: relative;
+    border-color: solid black;
+    border-radius: 20px;
+    text-align: center;
+}
