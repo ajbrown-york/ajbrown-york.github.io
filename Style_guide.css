@@ -92,6 +92,7 @@ body {
     display: flex;
     width: 100%;
     background-color:#ed553B;
+    display: inline-block;
 }
 
 /*This styles the section deliverables */
