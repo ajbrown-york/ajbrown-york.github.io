@@ -72,6 +72,7 @@ body {
     top: 70px;
     border-color: solid black;
     border-radius: 20px;
+    object-fit: contain;
 }
 
 /*This styles the description of the game in the section pictures */ 
@@ -183,6 +184,12 @@ body {
     top: 10px;
     border-color: solid black;
     border-radius: 20px;
+}
+
+.Week_1_image img{
+    object-fit: contain;
+    width: auto;
+    height: auto;
 }
 
 /* This is the style guide for the section position and colour of week 3's progress report */
