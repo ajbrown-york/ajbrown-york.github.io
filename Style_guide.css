@@ -234,7 +234,7 @@ body {
     margin-right: auto;
 }
 
-/*This is the section for the header of the progress report section for term 2 week 1 */
+/*This is the section for the header of the progress report section for term 2 week 2 */
 .term2_week2_header{
     overflow: hidden;
     flex-basis: 100%;
@@ -251,6 +251,25 @@ body {
     overflow: hidden;
     margin-left: auto;
     margin-right: auto;
+}
+
+/* This is the section for the header of the progress report section for term 2 week 3 */
+.term2_week3{
+    display: flex;
+    width: 100%;
+    height: 50%;
+    position: sticky;
+    background-color: #3caea3;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.term2_week3_header{
+    overflow: hidden;
+    flex-basis: 100%;
+    text-align: center;
+    font-size: 18px;
 }
 
 /*This is the container for section container our UMLS, it changes the position and colour */
