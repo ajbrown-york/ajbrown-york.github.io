@@ -308,7 +308,7 @@ body {
     display:block;
     width:100%;
     background-color: #20639B;
-    text-align:  center;
+    text-align-last:  center;
     text-align: justify;
 }
 
@@ -317,7 +317,7 @@ body {
     display: flex;
     width: 100%;
     background-color:#ed553B;
-    text-align: center;
+    text-align-last: center;
     text-align: justify;
     display: inline-block;
 }
