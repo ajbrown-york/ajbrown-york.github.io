@@ -355,3 +355,30 @@ body {
     width: 100%;
     height: 100%;
 }
+
+/*These are the classes to with the formatting of the bibliography section of the website */
+.Bibliography{
+    display:block;
+    width:100%;
+    background-color: #20639B;
+    text-align: center;
+}
+
+.Bibliography_title{
+    background-color: #3caea3;
+    overflow: hidden;
+    flex-basis: 100%;
+    text-align: center;
+    font-size: 18px;
+}
+
+.Bibliography_text{
+    width: 80%;
+    flex-basis: 40%;
+    overflow: hidden;
+    padding: 10px;
+    text-align: center;
+    position: relative;
+    font-size: large;
+    font-size: 20px;
+}
