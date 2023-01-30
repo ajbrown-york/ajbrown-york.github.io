@@ -7,21 +7,21 @@
 
 /*The following is a general guideline if style code is not given to the website */
 body {
-    background-color: #173F5F;
+    background-color: #88CCEE;
     margin: 0;
     height: 100%;
 }
 
 /*This is the style for the title of the page "Piazza Panic" */
 .header {
-    background-color: #20639B;
+    background-color: #CC6677;
     text-align: center;
     font-size: 30px;
 }
 
 /*This is the style for the containe of the title "Piazza Panic" */
 .container {
-    background-color: #f6d55c;
+    background-color: #CC6677;
     width: 100%;
     margin-left: auto;
     margin-right: auto;
@@ -43,7 +43,7 @@ body {
     width: 100%;
     height: 70%;
     position: sticky;
-    background-color:#f6d55c;
+    background-color:#44AA99;
     overflow: hidden;
     margin-left: auto;
     margin-right: auto;
@@ -92,7 +92,7 @@ body {
 .list_of_deliverables{
     display: flex;
     width: 100%;
-    background-color:#ed553B;
+    background-color:#88CCEE;
     display: inline-block;
 }
 
@@ -100,7 +100,7 @@ body {
 .Deliverables{
     display:block;
     width:100%;
-    background-color: #20639B;
+    background-color: #CC6677;
     text-align:  center;
 }
 
@@ -110,7 +110,7 @@ body {
     width: 100%;
     height: 30%;
     position: sticky;
-    background-color: #3caea3;
+    background-color: #44AA99;
     overflow: hidden;
     margin-left: auto;
     margin-right: auto;
@@ -160,7 +160,7 @@ body {
     width: 100%;
     height: 50%;
     position: sticky;
-    background-color: #3caea3;
+    background-color: #44AA99;
     overflow: hidden;
     margin-left: auto;
     margin-right: auto;
@@ -196,7 +196,7 @@ body {
     width: 100%;
     height: 50%;
     position: sticky;
-    background-color: #3caea3;
+    background-color: #44AA99;
     overflow: hidden;
     margin-left: auto;
     margin-right: auto;
@@ -226,7 +226,7 @@ body {
     width: 100%;
     height: 50%;
     position: sticky;
-    background-color: #3caea3;
+    background-color: #44AA99;
     overflow: hidden;
     margin-left: auto;
     margin-right: auto;
@@ -238,7 +238,7 @@ body {
     width: 100%;
     height: 50%;
     position: sticky;
-    background-color: #3caea3;
+    background-color: #44AA99;
     overflow: hidden;
     margin-left: auto;
     margin-right: auto;
@@ -257,7 +257,7 @@ body {
     width: 100%;
     height: 20%;
     position: sticky;
-    background-color: #3caea3;
+    background-color: #44AA99;
     overflow: hidden;
     margin-left: auto;
     margin-right: auto;
@@ -269,7 +269,7 @@ body {
     width: 100%;
     height: 50%;
     position: sticky;
-    background-color: #3caea3;
+    background-color: #44AA99;
     overflow: hidden;
     margin-left: auto;
     margin-right: auto;
@@ -286,7 +286,7 @@ body {
 .UML_container{
     display:block;
     width:100%;
-    background-color: #20639B;
+    background-color: #054A6D;
     text-align: center;
 }
 
@@ -301,7 +301,7 @@ body {
 
 /*This is the style used for the titles given to each UML */
 .UML_title{
-    background-color: #3caea3;
+    background-color: #88CCEE;
     overflow: hidden;
     flex-basis: 100%;
     text-align: center;
@@ -312,7 +312,7 @@ body {
 .table_of_contents{
     display:block;
     width:100%;
-    background-color: #20639B;
+    background-color: #CC6677;
     text-align-last:  center;
     text-align: justify;
 }
@@ -321,7 +321,7 @@ body {
 .list_of_table_of_contents{
     display: flex;
     width: 100%;
-    background-color:#ed553B;
+    background-color:#88CCEE;
     text-align-last: center;
     text-align: justify;
     display: inline-block;
@@ -331,12 +331,12 @@ body {
 .Gantt_charts{
     display:block;
     width:100%;
-    background-color: #20639B;
+    background-color: #054A6D;
     text-align: center;
 }
 
 .gantt_chart_title{
-    background-color: #3caea3;
+    background-color: #44AA99;
     overflow: hidden;
     flex-basis: 100%;
     text-align: center;
@@ -360,12 +360,12 @@ body {
 .Bibliography{
     display:block;
     width:100%;
-    background-color: #20639B;
+    background-color: #CC6677;
     text-align: center;
 }
 
 .Bibliography_title{
-    background-color: #3caea3;
+    background-color: #44AA99;
     overflow: hidden;
     flex-basis: 100%;
     text-align: center;
