@@ -127,6 +127,7 @@ body {
 /*This is a general class, used to style the image box position and size of progress section images, some images do not use this as they needed to be scaled differently to appear visable on the webpage */
 .Week_image{
     width:100%;
+    height: 80%;
     float: right;
     position: relative;
     top: 70px;
@@ -137,7 +138,7 @@ body {
 /*This styles the actual image in the week progress, some images do not use this as they needed to be scaled differently to appear visable on the webpage */
 .Week_image img{
     width: 100%;
-    height: 70%;
+    height: 100%;
 }
 
 /*This is a general class used to style the position and text allignment of paragraphs describing week progress, some paragraphs do not use this as they needed to be scaled differently to appear visable on the webpage */
