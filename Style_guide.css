@@ -143,16 +143,14 @@ body {
 
 /*This is a general class used to style the position and text allignment of paragraphs describing week progress, some paragraphs do not use this as they needed to be scaled differently to appear visable on the webpage */
 .Week_paragraph{
-    width: 80%;
-    height: 100%;
-    flex-basis: 40%;
+    display: flex;
+    width: 100%;
+    height: 30%;
+    position: sticky;
+    background-color: #44AA99;
     overflow: hidden;
-    padding: 10px;
-    text-align: left;
-    position: relative;
-    left: 1px;
-    font-size: large;
-    font-size: 18px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* This is the style for the postition and background colour of week 1's progress report */
