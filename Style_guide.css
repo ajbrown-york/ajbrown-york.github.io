@@ -144,7 +144,7 @@ body {
 /*This is a general class used to style the position and text allignment of paragraphs describing week progress, some paragraphs do not use this as they needed to be scaled differently to appear visable on the webpage */
 .Week_paragraph{
     width: 100%;
-    height: 30%;
+    height: 100%;
     flex-basis: 40%;
     overflow: hidden;
     padding: 10px;
