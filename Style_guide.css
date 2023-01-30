@@ -130,9 +130,7 @@ body {
     height: 100%;
     float: right;
     position: relative;
-    top: 70px;
     border-color: solid black;
-    border-radius: 20px;
 }
 
 /*This styles the actual image in the week progress, some images do not use this as they needed to be scaled differently to appear visable on the webpage */
